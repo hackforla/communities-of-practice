@@ -1,6 +1,6 @@
 # Communities of Practice
 
-[Add desription here]
+A Community of Practice (CoP) is a group of people who share a common interest in a topic and meet regularly to fulfill both individual and group goals. At Hack for LA, we use communities of practice to share effective practices and relevant domain knowledge to help our members grow. 
 
 ### Practice Areas (brief links)
 - [UI/UX](https://github.com/hackforla/UI-UX) | 
