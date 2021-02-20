@@ -50,7 +50,7 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
    - [x] marketing-and-communications-director
    - [x] marketing-and-communications-intern
    - [x] marketing-and-communications-manager
-- [Fundraising](https://github.com/hackforla/fundraising/projects/2) |  
+- [Revenue](https://github.com/hackforla/fundraising/projects/2) |  
    - [ ] needed: institutional-giving-manager
    - [ ] needed: individual-giving-manager
    - [ ] needed: project-fundraising-specialist 
