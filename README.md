@@ -10,7 +10,7 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
 - [Development](https://github.com/hackforla/development) (programming) | [**Get Access**](https://github.com/hackforla/development/issues/1)
 - [Ops](https://github.com/hackforla/ops) | [**Get Access**](https://github.com/hackforla/ops/issues/7)
 - [Product Management](https://github.com/hackforla/product-management) | [**Get Access**](https://github.com/hackforla/product-management/issues/133)
-- [Marketing](https://github.com/hackforla/marketing) | [Get Access]()
+- [Marketing](https://github.com/hackforla/marketing) | [Get Access](https://github.com/hackforla/marketing/issues/35)
 - [Revenue](https://github.com/hackforla/revenue) |  [Get Access]()
 
 ### Practice Areas Open Roles (on Projects) with Role Definitions
