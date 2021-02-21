@@ -38,7 +38,7 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
    - [x] full-stack-developer
    - [x] qa-engineer (also SDET)
 - [Ops](https://github.com/hackforla/ops/projects/1) | 
-   - [x] data-engineer-devops
+   - [x] [data-engineer-devops](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/data-engineer-devops.md)
 - [Product Management](https://github.com/hackforla/product-management/projects/8) | 
    - [x] [business-analyst](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/business-analyst.md)
    - [x] [product-manager](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/product-manager.md)
