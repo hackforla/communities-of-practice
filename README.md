@@ -33,7 +33,7 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
    - [x] data-scientist
    - [x] data-analyst
 - [Development](https://github.com/hackforla/development/projects/2) (programming) | 
-   - [x] front-end-developer
+   - [x] [front-end-developer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/front-end-developer.md)
    - [x] [back-end-developer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/back-end-developer.md)
    - [x] full-stack-developer
    - [x] qa-engineer (also SDET)
