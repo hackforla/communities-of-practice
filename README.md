@@ -62,5 +62,5 @@ _If you are a Product Manager who needs to recruit any of the below talent for y
 
 #### Help us Add Roles
 - Help us write new role descriptions ([list of all current role descriptions](https://github.com/hackforla/civic-opportunity/tree/master/roles-1))
-- [x] = We have a role definition
-- [ ] = We need a role definition
+  - [x] = We have a role definition
+  - [ ] = We need a role definition
