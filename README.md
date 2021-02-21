@@ -8,7 +8,7 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
 - [UI/UX](https://github.com/hackforla/UI-UX) | Learn more | [**Get Access**](https://github.com/hackforla/UI-UX/issues/13)
 - [Data Science](https://github.com/hackforla/data-science) | Learn more | [**Get Access**](https://github.com/hackforla/data-science/issues/24)
 - [Development](https://github.com/hackforla/development) (programming) | Learn more | [**Get Access**](https://github.com/hackforla/development/issues/1)
-- [Ops](https://github.com/hackforla/ops) | Learn more | [**Get Access**](https://github.com/hackforla/ops/issues/7)
+- [Ops](https://github.com/hackforla/ops) | [Learn more](https://github.com/hackforla/product-management/wiki) | [**Get Access**](https://github.com/hackforla/ops/issues/7)
 - [Product Management](https://github.com/hackforla/product-management) | Learn more | [**Get Access**](https://github.com/hackforla/product-management/issues/133)
 - [Marketing](https://github.com/hackforla/marketing) | Learn more | [**Get Access**](https://github.com/hackforla/marketing/issues/35)
 - [Revenue](https://github.com/hackforla/revenue) | Learn more | [**Get Access**](https://github.com/hackforla/revenue/issues/13)
