@@ -34,7 +34,7 @@ _If you are a Product Manager who needs to recruit any of the below talent for y
 - [**Data Science**](https://github.com/hackforla/data-science/projects/2)
    - [x] [data-scientist](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/data-scientist.md)
    - [x] [data-analyst](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/data-analyst.md)
-- [**Development**](https://github.com/hackforla/development/projects/2) (programming)
+- [**Engineering**](https://github.com/hackforla/development/projects/2) (programming)
    - [x] [front-end-developer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/front-end-developer.md)
    - [x] [back-end-developer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/back-end-developer.md)
    - [x] [full-stack-developer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/full-stack-developer.md)
