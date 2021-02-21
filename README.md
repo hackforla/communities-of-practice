@@ -31,7 +31,7 @@ _If you are a Product Manager who needs to recruit any of the below talent for y
    - [x] [ui-designer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-designer.md)
    - [x] [ux-designer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-researcher.md)
 - [**UI/UX - Research**](https://github.com/hackforla/UI-UX/projects/2)
-  - [x] [**ux-researcher**](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-researcher.md)
+  - [x] [ux-researcher](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-researcher.md)
   - [ ] needed: ux-program-designer
   - [ ] needed: ux-community-of-practice-lead
   - [ ] needed: ux-research-lead
