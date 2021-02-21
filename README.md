@@ -22,8 +22,7 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
 - Attend your Community of Practice meetings (if there are two, you can attend the one that is convenient)
 
 ### Open Roles (on Projects) with Role Definitions by Practice Areas 
-- [x] = We have a role definition
-- [ ] = We need a role definition
+
 
 _If you are a Product Manager who needs to recruit any of the below talent for your team, please click on the relevant role boards and add the role you are looking for._
 
@@ -63,3 +62,5 @@ _If you are a Product Manager who needs to recruit any of the below talent for y
 
 #### Help us Add Roles
 - Help us write new role descriptions ([list of all current role descriptions](https://github.com/hackforla/civic-opportunity/tree/master/roles-1))
+- [x] = We have a role definition
+- [ ] = We need a role definition
