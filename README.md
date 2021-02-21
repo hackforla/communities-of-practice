@@ -55,11 +55,6 @@ _If you are a Product Manager who needs to recruit any of the below talent for y
    - [ ] needed: individual-giving-manager
    - [ ] needed: project-fundraising-specialist 
 
-### Technology used
-
-- GitHub repositories
-- GitHub Project Boards
-- Markdown files
 
 # Join your Community of Practice  
 
