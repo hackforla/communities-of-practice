@@ -62,4 +62,4 @@ _If you are a Product Manager who needs to recruit any of the below talent for y
    - [ ] needed: project-fundraising-specialist 
 
 #### Help us Add Roles
-- Help us write new role descriptions, Here is a [list of all current role descriptions](https://github.com/hackforla/civic-opportunity/tree/master/roles-1)
+- Help us write new role descriptions ([list of all current role descriptions](https://github.com/hackforla/civic-opportunity/tree/master/roles-1))
