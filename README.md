@@ -25,7 +25,7 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
    - [x] ui-designer
    - [x] ux-designer
 - [UI/UX - Research](https://github.com/hackforla/UI-UX/projects/2) | 
-  - [x] ux-researcher
+  - [x] [ux-researcher](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-researcher.md)
   - [ ] needed: ux-program-designer
   - [ ] needed: ux-community-of-practice-lead
   - [ ] needed: ux-research-lead
