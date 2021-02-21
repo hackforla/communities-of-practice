@@ -30,8 +30,8 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
   - [ ] needed: ux-community-of-practice-lead
   - [ ] needed: ux-research-lead
 - [Data Science](https://github.com/hackforla/data-science/projects/2) | 
-   - [x] data-scientist
-   - [x] data-analyst
+   - [x] [data-scientist](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/data-scientist.md)
+   - [x] [data-analyst](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/data-analyst.md)
 - [Development](https://github.com/hackforla/development/projects/2) (programming) | 
    - [x] [front-end-developer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/front-end-developer.md)
    - [x] [back-end-developer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/back-end-developer.md)
