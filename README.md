@@ -17,7 +17,7 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
 - [x] = We have a role definition
 - [ ] = We need a role definition
 
-#### If you are a Product Manager who needs to recruit any of the below talent for your team, please click on the relevant role boards and add the role you are looking for.
+_If you are a Product Manager who needs to recruit any of the below talent for your team, please click on the relevant role boards and add the role you are looking for._
 
 - [UI/UX - Design](https://github.com/hackforla/UI-UX/projects/3) | 
    - [x] [ui-designer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-designer.md)
