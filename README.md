@@ -4,6 +4,7 @@ A Community of Practice (CoP) is a group of people who share a common interest i
 
 All new volunteers at Hack for LA should join the relevant CoP and work on a couple of issues there to familiarize yourself with GitHub and how things work at Hack for LA. Once you have some proficiency, you will be assigned to a project. You are encouraged to continue attending CoP meetings to continue domain learning and peer to peer mentorship.
 
+### Connect with your community
 
 | Community of Practice | Repository                                            | README                                             | Wiki                                                       | Get Access                                                       | GMT Time             | PST Time              | MST Time              | EST Time             | Meeting Link                                                                       |
 | --------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- | -------------------- | --------------------- | --------------------- | -------------------- | ---------------------------------------------------------------------------------- |
