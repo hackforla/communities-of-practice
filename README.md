@@ -19,8 +19,6 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
 
 #### If you are a Product Manager who needs to recruit any of the below talent for your team, please click on the relevant role boards and add the role you are looking for.
 
-[List of all roles](https://github.com/hackforla/civic-opportunity/tree/master/roles-1)
-
 - [UI/UX - Design](https://github.com/hackforla/UI-UX/projects/3) | 
    - [x] [ui-designer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-designer.md)
    - [x] [ux-designer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-researcher.md)
@@ -65,4 +63,4 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
 
 - Visit your Community of Practice's repository
 - Attend Community of Practice meetings (see the readme on their repository)
-- Help us write new role descriptions
+- Help us write new role descriptions, Here is a [list of all current role descriptions](https://github.com/hackforla/civic-opportunity/tree/master/roles-1)
