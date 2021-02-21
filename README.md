@@ -46,10 +46,10 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
    - [x] [special-projects-coordinator](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/special-projects-coordinator.md)
    - [ ] needed: lead-product-manager
 - [Marketing](https://github.com/hackforla/marketing/projects/4) | 
-   - [x] marketing-and-communications-coordinator
-   - [x] marketing-and-communications-director
-   - [x] marketing-and-communications-intern
-   - [x] marketing-and-communications-manager
+   - [x] [marketing-and-communications-coordinator](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/marketing-and-communications-coordinator.md)
+   - [x] [marketing-and-communications-director](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/marketing-and-communications-director.md)
+   - [x] [marketing-and-communications-intern](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/marketing-and-communications-intern.md)
+   - [x] [marketing-and-communications-manager](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/marketing-and-communications-manager.md)
 - [Revenue](https://github.com/hackforla/revenue/projects/2) |  
    - [ ] needed: institutional-giving-manager
    - [ ] needed: individual-giving-manager
