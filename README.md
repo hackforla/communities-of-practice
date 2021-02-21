@@ -5,13 +5,13 @@ A Community of Practice (CoP) is a group of people who share a common interest i
 All new volunteers at Hack for LA should join the relevant CoP and work on a couple of issues there to familiarize yourself with GitHub and how things work at Hack for LA. Once you have some proficiency, you will be assigned to a project. You are encouraged to continue attending CoP meetings to continue domain learning and peer to peer mentorship.
 
 ### Communities of Practice
-- [UI/UX](https://github.com/hackforla/UI-UX) | 
-- [Data Science](https://github.com/hackforla/data-science) | 
-- [Development](https://github.com/hackforla/development) (programming) | 
-- [Ops](https://github.com/hackforla/ops) | 
-- [Product Management](https://github.com/hackforla/product-management) | 
-- [Marketing](https://github.com/hackforla/marketing) | 
-- [Revenue](https://github.com/hackforla/revenue) |  
+- [UI/UX](https://github.com/hackforla/UI-UX) | [Get Access](https://github.com/hackforla/UI-UX/issues/13)
+- [Data Science](https://github.com/hackforla/data-science) | [Get Access](https://github.com/hackforla/data-science/issues/24)
+- [Development](https://github.com/hackforla/development) (programming) | [Get Access]()
+- [Ops](https://github.com/hackforla/ops) | [Get Access]()
+- [Product Management](https://github.com/hackforla/product-management) | [Get Access](https://github.com/hackforla/product-management/issues/133)
+- [Marketing](https://github.com/hackforla/marketing) | [Get Access]()
+- [Revenue](https://github.com/hackforla/revenue) |  [Get Access]()
 
 ### Practice Areas Open Roles (on Projects) with Role Definitions
 - [x] = We have a role definition
