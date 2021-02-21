@@ -22,8 +22,6 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
 - Attend your Community of Practice meetings (if there are two, you can attend the one that is convenient)
 
 ### Open Roles (on Projects) with Role Definitions by Practice Areas 
-
-
 _If you are a Product Manager who needs to recruit any of the below talent for your team, please click on the relevant role boards and add the role you are looking for._
 
 - [**UI/UX - Design**](https://github.com/hackforla/UI-UX/projects/3)
