@@ -60,4 +60,6 @@ _If you are a Product Manager who needs to recruit any of the below talent for y
    - [ ] needed: institutional-giving-manager
    - [ ] needed: individual-giving-manager
    - [ ] needed: project-fundraising-specialist 
+
+#### Help us Add Roles
 - Help us write new role descriptions, Here is a [list of all current role descriptions](https://github.com/hackforla/civic-opportunity/tree/master/roles-1)
