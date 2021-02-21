@@ -40,10 +40,10 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
 - [Ops](https://github.com/hackforla/ops/projects/1) | 
    - [x] data-engineer-devops
 - [Product Management](https://github.com/hackforla/product-management/projects/8) | 
-   - [x] business-analyst
-   - [x] product-manager
-   - [x] product-owner
-   - [x] special-projects-coordinator
+   - [x] [business-analyst](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/business-analyst.md)
+   - [x] [product-manager](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/product-manager.md)
+   - [x] [product-owner](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/product-owner.md)
+   - [x] [special-projects-coordinator](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/special-projects-coordinator.md)
    - [ ] needed: lead-product-manager
 - [Marketing](https://github.com/hackforla/marketing/projects/4) | 
    - [x] marketing-and-communications-coordinator
