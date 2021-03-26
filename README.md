@@ -24,6 +24,7 @@ All new volunteers at Hack for LA should join the relevant CoP and work on a cou
 ### How to Start a new Community of Practice
 - Slack [Ray](https://hackforla.slack.com/team/U015QPJS34M) to be added to the next civic Opportunity meeting
 - Come to the Civic Opportunity meeting Thursdsays at 4pm PST and Sundays at 9am PST
+- [Steps that will be involved (WIP)](https://github.com/hackforla/communities-of-practice/issues/3)
 
 ### Open Roles (on Projects) with Role Definitions by Practice Areas 
 _If you are a Product Manager who needs to recruit any of the below talent for your team, please click on the relevant role boards and add the role you are looking for._
