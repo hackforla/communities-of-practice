@@ -26,7 +26,7 @@ _If you are a Product Manager who needs to recruit any of the below talent for y
   - [ ] needed: ux-program-designer
   - [ ] needed: ux-community-of-practice-lead
   - [ ] needed: ux-research-lead
-- [**Data Science**](https://github.com/hackforla/data-science/projects/2)
+- [**Data Science**](https://github.com/orgs/hackforla/projects/67/views/6)
    - [x] [data-scientist](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/data-scientist.md)
    - [x] [data-analyst](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/data-analyst.md)
 - [**Engineering**](https://github.com/hackforla/development/projects/2) (programming)
