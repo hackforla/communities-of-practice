@@ -18,6 +18,7 @@ Meeting times and CoP leaders can be found here: https://hackforla.org/communiti
 ### Open Roles (on Projects) with Role Definitions by Practice Areas 
 _If you are a Product Manager who needs to recruit any of the below talent for your team, please click on the relevant role boards and add the role you are looking for._
 
+- [**UI/UX - Content**](https://github.com/hackforla/UI-UX/projects/7)
 - [**UI/UX - Design**](https://github.com/hackforla/UI-UX/projects/3)
    - [x] [ui-designer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-designer.md)
    - [x] [ux-designer](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/ux-researcher.md)
