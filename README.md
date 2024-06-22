@@ -51,9 +51,9 @@ _If you are a Product Manager who needs to recruit any of the below talent for y
    - [x] [marketing-and-communications-intern](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/marketing-and-communications-intern.md)
    - [x] [marketing-and-communications-manager](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/marketing-and-communications-manager.md)
 - [**Revenue**](https://github.com/hackforla/revenue/projects/2) 
-   - [ ] needed: institutional-giving-manager
-   - [ ] needed: individual-giving-manager
-   - [ ] needed: project-fundraising-specialist 
+   - [ ] needed: [institutional-giving-manager](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/individual-giving-manager.md)
+   - [ ] needed: [individual-giving-manager](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/institutional-giving-manager.md)
+   - [ ] needed: [project-fundraising-specialist](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/project-fundraising-specialist.md) 
 
 #### Help us Add Roles
 - Help us write new role descriptions ([list of all current role descriptions](https://github.com/hackforla/civic-opportunity/tree/master/roles-1))
