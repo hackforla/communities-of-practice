@@ -38,7 +38,6 @@ _If you are a Product Manager who needs to recruit any of the below talent for y
    - [x] [qa-engineer (also SDET)](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/qa-engineer.md)
    - [x] [Database Architect](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/database-architect.md)
 - [**DevOps**](https://github.com/orgs/hackforla/projects/67/views/7) 
-   - [x] [data-engineer-devops](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/data-engineer-devops.md)
 - [**Product Management**](https://github.com/orgs/hackforla/projects/67/views/5)
    - [x] [business-analyst](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/business-analyst.md)
    - [x] [product-manager](https://github.com/hackforla/civic-opportunity/blob/master/roles-1/product-manager.md)
